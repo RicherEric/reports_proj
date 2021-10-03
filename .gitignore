@@ -44,4 +44,8 @@ pip-selfcheck.json
 *.pdb
 *.sqlite3
 
+### Python ###
+*.pyc
+__pycache__
+
 # End of https://www.toptal.com/developers/gitignore/api/database
